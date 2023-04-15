@@ -1,0 +1,23 @@
+ISBN,AUTHOR_FNAME,AUTHOR_LNAME,GENRE,ISSUED_COPIES,NUMBER_OF_COPIES,TITLE
+1,J.K.,Rowling,Fantasy,1,27,Harry Potter and The Philosopher's Stone
+2,J.K,Rowling,Fantasy,1,1,Harry Potter and the Chamber of Secrets
+3,J.K,Rowling,Fantasy,1,2,Harry Potter and the Prisoner of Azkaban
+4,J.K,Rowling,Fantasy,1,10,Harry Potter and the Goblet of Fire
+5,J.K,Rowling,Fantasy,1,10,Harry Potter and the Order of the Phoenix
+6,J.K,Rowling,Fantasy,1,10,Harry Potter and the Half-blood prince
+7,J.K,Rowling,Fantasy,0,10,Harry Potter and The Deathly Hallows
+8,John,Green,Teen-fiction,0,25,Fault in our stars
+9,John,Green,Teen-fiction,0,18,Paper Towns
+10,Jojo,Moyes,Teen-fiction,1,35,Me before you
+11,John,Green,Teen-fiction,0,20,Looking for Alaska
+12,Rainbow,Rowell,Teen-fiction,0,45,Fan Girl
+13,Fredrick ,Forsyth,Fiction,0,22,The Kill List
+14,Jennifer,Estep,Urban Fiction,0,23,By a Thread
+15,Dan,Brown,Fiction,1,19,Inferno
+16,JAne,Austen,Classics,1,1,Pride and Prejudice
+17,Jonathan,Swift,Classics,0,1,Gulliver's Travels
+18,Daniel,Defoe,Classics,0,2,Robinson Crusoe
+19,Rainbow,Rowell,Teen-fiction,0,20,Carry on
+20,Rick,Riordan,Teen-fiction,0,35,The lightning thief
+21,HC,Verma,Textbooks,0,3,Physics Textbook
+22,Narendra,Awasthi,Textbooks,0,2,Chemistry Textbook

@@ -1,0 +1,11 @@
+ACCOUNT_NUMBER,ADDRESS_CITY,ADDRESS_LINE,ADDRESS_PINCODE,ADDRESS_STATE,CUSTOMER_FNAME,CUSTOMER_LNAME,CUSTOMER_MOBILE_NUMBER,CUSTOMER_SINCE
+1,Pune,"Building A, Street 1",411041,Maharashtra,Amitabh,Bacchan,1234567890,12-12-2020
+2,Pune,"Building B, Street 1",411042,Maharashtra,Anil,Kapoor,2345678901,12-12-2020
+3,Pune,"Building A, Street 2",411043,Maharashtra,Deepika,Padukone,3456789012,12-12-2020
+4,Pune,"Building B, Street 2",411044,Maharashtra,Salman,Khan,4567890123,12-12-2020
+5,Pune,"Building C, Street 3",411045,Maharashtra,Priyanka,Chopra,5678901234,12-12-2020
+6,Pune,"Building D, Street 6",411046,Maharashtra,John,Lennon,6789012345,12-12-2020
+7,Pune,"Building C, Street 4",411047,Maharashtra,Selena,Gomez,7890123456,12-12-2020
+8,Pune,"Building D, Street 4",411048,Maharashtra,Peter,Pan,8901234567,12-12-2020
+9,Pune,"Building A, Street 5",411049,Maharashtra,Akshay,Kumar,9012345678,12-12-2020
+10,Pune,"Building B, Street 5",411050,Maharashtra,Taylor,Swift,1357924680,12-12-2020
